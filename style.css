@@ -1,0 +1,15 @@
+
+.content {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.content .box {
+  position: relative;
+  width: 20%;
+  height: 350px;
+  transition: 0.2s ease;
+}
